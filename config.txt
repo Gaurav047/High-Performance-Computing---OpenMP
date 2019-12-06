@@ -1,0 +1,20 @@
+WiFi:
+	SSID : IITK-sec
+	Username : cseguest
+	password : natraj51#
+
+FortiClient VPN:
+	Connection : CDAC
+	Description : SSL-VPN
+	Remote gateway : pravesh.cdac.in
+	port : 443
+	username : awshpc2019
+	password : 5tz2NN$th
+
+Remote Client Login ( SSH using puTTy/MobaXterm ):
+	login IP :
+		Shrestha : 10.208.34.9
+		Shavak : 10.208.35.128
+	cluster login:
+		username : awshpc
+		password : awshpc@123
